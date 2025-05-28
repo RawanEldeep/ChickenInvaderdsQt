@@ -1,0 +1,10 @@
+release/chickens.o
+release/health.o
+release/laser.o
+release/main.o
+release/player.o
+release/score.o
+release/qrc_Resources.o
+release/moc_chickens.o
+release/moc_laser.o
+release/moc_player.o

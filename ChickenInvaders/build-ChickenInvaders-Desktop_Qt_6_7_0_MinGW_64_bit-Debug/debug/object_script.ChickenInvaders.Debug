@@ -1,0 +1,10 @@
+debug/chickens.o
+debug/health.o
+debug/laser.o
+debug/main.o
+debug/player.o
+debug/score.o
+debug/qrc_Resources.o
+debug/moc_chickens.o
+debug/moc_laser.o
+debug/moc_player.o

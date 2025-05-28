@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/resources/player">
+        <file>ship.png</file>
+    </qresource>
+    <qresource prefix="/resources/laser">
+        <file>red_laser.png</file>
+    </qresource>
+    <qresource prefix="/resources/chikkk">
+        <file>chikkkjpeg.jpeg</file>
+    </qresource>
+    <qresource prefix="/resources/PinkChick">
+        <file>PinkcChick .png</file>
+    </qresource>
+    <qresource prefix="/resources/audios">
+        <file>lasershot.mp3</file>
+        <file>chickenKill.mp3</file>
+    </qresource>
+    <qresource prefix="/resources/Background">
+        <file>SceneBG.jpg</file>
+    </qresource>
+</RCC>
